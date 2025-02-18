@@ -15,8 +15,8 @@ This project is a **Guest List Manager** that allows users to input names for a 
 - Displays the **final guest list** in a **single line**, with names **separated by commas**
 
 ## Files Included
-- `index.html` - HTML form to collect guest names
-- `guestList.js` - JavaScript file to manage the guest list
+- `GuestList.html` - HTML form to collect guest names
+- `GuestList.js` - JavaScript file to manage the guest list
 
 
 ## How to Use
